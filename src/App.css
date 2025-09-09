@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+
+#basic-nav-dropdown{
+  color: #20282D;
+  font-weight: 700;
+  font-size: 25px;
+  font-style: normal;
+  font-family: "Orbitron", sans-serif;
+}
+
+#basic-nav-dropdown:hover{
+   color: purple
+}
+.navbutton{
+  background-color: purple;
+  font-weight: 700;
+  color: white;
+  border-radius: 15px;
+  padding: 14px 27px 14px 27px;
+  font-size: 15px;
+  line-height: 1;
+  border: 1px solid purple;
+  margin-left: 150px;
+}
+.navbutton:hover{
+background-color: #1B3041;
+border: 1px solid #1B3041;
+}
+.navbar{
+   margin-left: 500px;
+   margin-top: 50px;
+
+}
+.navword{
+  font-weight: 700;
+  font-size: 20px;
+  color: white;
+}
+.navv{
+  font-family: "Orbitron", sans-serif;
+}
+.navlinks{
+  display: flex;
+  gap: 30px;
+}
